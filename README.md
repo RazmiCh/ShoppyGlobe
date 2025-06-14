@@ -20,7 +20,7 @@ https://shoppy-globe-git-main-razmichs-projects.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/RazmiCh/ShoppyGlobe?tab=readme-ov-file
 ```
 
 Go to the project directory
